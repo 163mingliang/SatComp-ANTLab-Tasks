@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Vivado builds
+.Xil/
+*.jou
+*.log
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+*.ip_user_files/
+# System
+.DS_Store
+Thumbs.db
+# Keep source code, sample data and deliberately captured result images under version control.
