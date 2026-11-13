@@ -6,9 +6,9 @@
 
 | 任务 | 方向 | 任务说明 |
 | --- | --- | --- |
-| A | 计算任务调度算法设计与仿真 | [Task-A-Scheduling](Task-A-Scheduling/README.md) |
-| B | 算网协同任务处理建模与仿真 | [Task-B-ComputeNetwork](Task-B-ComputeNetwork/README.md) |
-| C | FPGA 网络数据处理模块设计与验证 | [Task-C-FPGA](Task-C-FPGA/README.md) |
+| A | 计算任务调度算法设计与仿真 | [Task-A-TaskScheduling](Task-A-TaskScheduling/README.md) |
+| B | 算网协同任务处理建模与仿真 | [Task-B-ComputeNetworkScheduling](Task-B-ComputeNetworkScheduling/README.md) |
+| C | FPGA 网络数据处理模块设计与验证 | [Task-C-FPGADataPlane](Task-C-FPGADataPlane/README.md) |
 
 ## 考核与提交
 
@@ -27,9 +27,9 @@
 ```text
 SatComp-ANTLab-Tasks/
 ├── README.md
-├── Task-A-Scheduling/README.md
-├── Task-B-ComputeNetwork/README.md
-├── Task-C-FPGA/README.md
+├── Task-A-TaskScheduling/README.md
+├── Task-B-ComputeNetworkScheduling/README.md
+├── Task-C-FPGADataPlane/README.md
 ├── datasets/
 │   ├── README.md
 │   ├── task_a/{nodes.csv,tasks.csv}
