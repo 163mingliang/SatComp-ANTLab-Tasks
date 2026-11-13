@@ -1,0 +1,9 @@
+task_id,source_node,data_mb,workload_gop
+T01,N1,1,100
+T02,N1,200,100
+T03,N2,4,55
+T04,N2,120,55
+T05,N3,2,80
+T06,N3,180,80
+T07,N4,1,70
+T08,N4,130,70
