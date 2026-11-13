@@ -7,7 +7,7 @@
 | 任务 | 方向 | 任务说明 |
 | --- | --- | --- |
 | A | 计算任务调度算法设计与仿真 | [Task-A-TaskScheduling](Task-A-TaskScheduling/README.md) |
-| B | 算网协同任务处理建模与仿真 | [Task-B-ComputeNetworkScheduling](Task-B-ComputeNetworkScheduling/README.md) |
+| B | 算网协同任务处理建模与仿真 | [Task-B-ComputeNetworkModeling](Task-B-ComputeNetworkModeling/README.md) |
 | C | FPGA 网络数据处理模块设计与验证 | [Task-C-FPGADataPlane](Task-C-FPGADataPlane/README.md) |
 
 ## 考核与提交
@@ -28,7 +28,7 @@
 SatComp-ANTLab-Tasks/
 ├── README.md
 ├── Task-A-TaskScheduling/README.md
-├── Task-B-ComputeNetworkScheduling/README.md
+├── Task-B-ComputeNetworkModeling/README.md
 ├── Task-C-FPGADataPlane/README.md
 ├── datasets/
 │   ├── README.md
